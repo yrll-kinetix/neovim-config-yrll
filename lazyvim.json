@@ -1,0 +1,14 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.ai.codeium",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.yaml",
+    "lazyvim.plugins.extras.util.dot"
+  ],
+  "install_version": 7,
+  "news": {
+    "NEWS.md": "10960",
+    "doc/news.txt": "24450"
+  },
+  "version": 8
+}
